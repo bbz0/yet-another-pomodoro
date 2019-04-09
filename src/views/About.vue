@@ -16,7 +16,7 @@
 							</ul>
 							<h4>Links</h4>
 							<ul>
-								<li><a href="#">Github</a></li>
+								<li><a href="https://github.com/bbz0/yet-another-pomodoro">Github</a></li>
 							</ul>
 						</b-card>
 					</div>
